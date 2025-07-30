@@ -63,3 +63,10 @@ src/
 ## Video de Sustentación
 
 https://youtu.be/i4NC0qyAv4c
+
+## Imagenes correspondientes al codigo
+<img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/c69c6a7c-def0-4276-abdc-605a23577a94" />
+<img width="1915" height="1017" alt="image" src="https://github.com/user-attachments/assets/c8148a4c-a7cd-43b2-8432-a4fbc4ab6382" />
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/eb124695-100f-40c9-846d-01127d17d78e" />
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/bda2b1b6-3f66-49d5-a0c1-24d52af0fc9b" />
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/821e0a56-ae28-475b-a660-d18c14a75e00" />
