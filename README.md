@@ -56,10 +56,6 @@ src/
 	2.	Abre el proyecto en tu IDE de preferencia (por ejemplo, IntelliJ IDEA o NetBeans).
 	3.	Ejecuta Main.java.
 
-## Capturas de Pantalla
-
-Agregar aquí imágenes del login, menú principal, etc.
-
 ## Diagrama de Clases UML
 
 ![Imagen de WhatsApp 2025-07-29 a las 19 54 30_8e2d8481](https://github.com/user-attachments/assets/cd495c18-ab98-46ae-8a05-91571114602f)
