@@ -11,7 +11,7 @@ Proyecto final de programación orientada a objetos utilizando *Java Swing* y el
 
 ## Integrantes
 
-- Juan Urdiales - [@SPIDERWAPSHub1](https://github.com/SPIDERWAPSGitHub1)
+- Juan Urdiales - [@SPIDERWAPSGitHub1](https://github.com/SPIDERWAPSGitHub1)
 - Bryan Valverde - [@brayan637GitHub2](https://github.com/brayan637GitHub2)
 
 ## Descripción del Proyecto
